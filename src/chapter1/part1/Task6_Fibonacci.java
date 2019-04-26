@@ -5,7 +5,7 @@ import utils.StdOut;
 /**
  * Created by David on 25 Apr 2019, 10:10 PM
  */
-public class Task6 {
+public class Task6_Fibonacci {
 
     public static void main(String[] args) {
         int f = 0;
